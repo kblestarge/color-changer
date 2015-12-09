@@ -1,0 +1,19 @@
+#color-buttons{
+	text-align: center;
+}
+
+#color-buttons button{
+    margin: 20px;
+    height: 50px;
+    width: 100px;
+}
+
+#remove{
+	display: block;
+	margin: 0 auto;
+}
+
+.new-container{
+	text-align: center;
+	margin: 20px;
+}
